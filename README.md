@@ -1,6 +1,6 @@
 # User-Based-Recommendation-For-Amazon
 
-# Building-user-based-recommendation-model-for-Amazon.
+Building-user-based-recommendation-model-for-Amazon.
 Recommendation Systems
 
 DESCRIPTION
